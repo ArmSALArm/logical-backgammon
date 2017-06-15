@@ -754,7 +754,7 @@ function Server() {
       return false;
     }
 
-    var actionList = rule.getMoveActions(match.currentGame, params.piece, params.steps);
+    var actionList = rule.getMoveActions(match.currentGame.state, params.piece, params.steps);
     if (actionList.length === 0) {
       reply.errorMessage = 'Requested move is not allowed!';
       return false;
