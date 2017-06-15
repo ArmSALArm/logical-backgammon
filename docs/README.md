@@ -256,7 +256,7 @@ Directory structure of code follows project architecture:
 │
 ├─ [lib]                - Common library shared by clients and server
 │  ├─ [rules]           - Rules describing different variants of the game
-│  │  ├─ rules\rule.js  - Base class for defining game rules
+│  │  ├─ rules\AbstractRule.js  - Base class for defining game rules
 │  │  ├─ rules\RuleBgCasual.js - Rule for most popular variant
 │  │  ├─ rules\RuleBgGulbara.js - Example for `Gul bara` variant
 │  │  └─ rules\RuleBgTapa.js - Example for `Tapa` variant
