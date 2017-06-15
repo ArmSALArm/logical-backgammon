@@ -8,7 +8,7 @@ var io = require('socket.io')(http);
 var comm = require('../../lib/comm.js');
 var model = require('../../lib/model.js');
 var queue_manager = require('./queue_manager.js');
-require('../../lib/rules/rule.js');
+require('../../lib/rules/AbstractRule.js');
 
 /**
  * Backgammon server.

@@ -14,7 +14,7 @@ var clipboard = require('clipboard');
 var cl = require('../../../lib/client');
 var comm = require('../../../lib/comm.js');
 var model = require('../../../lib/model.js');
-require('../../../lib/rules/rule.js');
+require('../../../lib/rules/AbstractRule.js');
 require('../../../lib/rules/RuleBgCasual.js');
 require('../../../lib/rules/RuleAmLogical.js');
 require('../../../lib/rules/RuleAmLongBackgammon.js');
