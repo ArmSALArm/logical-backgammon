@@ -1,7 +1,7 @@
 {
   "name": "backgammon.js-lib",
   "version": "0.0.1",
-  "author": "quasoft <info@quasoft.net>",
+  "author": "ArmSALArm <arsen.hovhannisyan.1991@gmail.com>",
   "description": "Backgammon.js Server",
   "license": "MIT",
   "dependencies": {
