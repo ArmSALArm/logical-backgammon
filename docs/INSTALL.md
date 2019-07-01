@@ -5,7 +5,6 @@ The game server has been tested to work on the following platforms:
 - [Ubuntu 16.04 64-bit](#ubuntu)
 - [Windows 10 Professional 64-bit](#windows)
 - [Docker](#docker)
-- [Heroku](#heroku)
 - [OpenShift Online](#openshift-online)
 
 Client is served automatically by server via HTTP, so after you install the server, all you need to access the game is the URL to the server (by default http://localhost:8080) and a *modern* browser.
