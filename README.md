@@ -1,12 +1,6 @@
-# backgammon.js [![Build Status](https://travis-ci.org/quasoft/backgammonjs.svg?branch=master)](https://travis-ci.org/quasoft/backgammonjs)
-
 ### Extensible multiplayer backgammon game written in JavaScript
 
-Current version: 0.6
-
-See [CHANGELOG](CHANGELOG.md) for recent changes.
-
-**Volunteer needed to host the DEMO.**
+Current version: 0.1
 
 ## Features:
 
@@ -19,18 +13,7 @@ See [CHANGELOG](CHANGELOG.md) for recent changes.
 - Lightweight - playable on any device, even old ones - anything that can run a modern browser;
 - Works in browser @ PC & Mobile;
 
-If you want to learn more about the project see [Detailed documentation](docs/README.md).
-
-## Demo
-[![Landing page](docs/images/progress-landing-page.jpg)](https://backgammonjs.herokuapp.com/)
-
-[Playable DEMO of backgammon.js](https://backgammonjs.herokuapp.com/)
-
-The demo is using the [free tier of Heroku](https://www.heroku.com/).
-
 You are free to host the game at your own server.
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/quasoft/backgammonjs/tree/heroku)
 
 ## How to install
 
@@ -54,7 +37,6 @@ The game server has been tested to work on the following platforms:
 - [Ubuntu](docs/INSTALL.md#ubuntu)
 - [Windows](docs/INSTALL.md#windows)
 - [Docker](docs/INSTALL.md#docker)
-- [Heroku](docs/INSTALL.md#heroku)
 - [OpenShift Online](docs/INSTALL.md#openshift-online)
 
 Follow the links above for more detailed installation instructions on those platforms.
@@ -76,8 +58,6 @@ Short instructions on how to add new rules are available here: [Creating rules f
 ## Documentation:
 
 - [Installation instructions](docs/INSTALL.md)
-- [Detailed documentation](docs/README.md)
-- [JsDoc documentation of library](https://cdn.rawgit.com/quasoft/backgammonjs/master/docs/backgammon.js-lib/0.0.1/index.html)
 
 ## Screenshots
 ### Classic rule:
