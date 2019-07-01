@@ -33,7 +33,7 @@ Should work on any linux/unix OS that can run `git` and `node.js`.
 
 3. Clone game repository:
 
-        git clone https://github.com/quasoft/backgammonjs.git .
+        git clone https://github.com/ArmSALArm/logical-backgammon.git .
 
 4. Install the game and its dependencies:
 
@@ -126,7 +126,7 @@ Has been tested with Docker version 1.12.1 under Ubuntu 16.04 host (64-bit).
 
 4. Clone game repository:
 
-        git clone https://github.com/quasoft/backgammonjs.git .
+        git clone https://github.com/ArmSALArm/logical-backgammon.git .
 
 5. Build docker image
 
@@ -146,16 +146,6 @@ Has been tested with Docker version 1.12.1 under Ubuntu 16.04 host (64-bit).
    or
    
    Open http://localhost:8080 in web browser
-
-## Heroku
-
-Has been tested to work with free tier of Heroku.
-
-The demo is currently running there.
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/quasoft/backgammonjs/tree/heroku)
-
-## OpenShift Online
 
 Has been tested to work with free tier of OpenShift Online - *small gear* and *node-latest* cartridge.
 
